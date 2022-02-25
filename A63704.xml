@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True relation of the late Kings death</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63704</idno>
+            <idno type="STC">Wing T2986</idno>
+            <idno type="STC">ESTC R1933</idno>
+            <idno type="EEBO-CITATION">12242570</idno>
+            <idno type="OCLC">ocm 12242570</idno>
+            <idno type="VID">56831</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63704)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56831)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 901:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True relation of the late Kings death</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1685?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Broadside.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Death and burial.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+               <term>Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-03</date>
+            <label>Elspeth Healey</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:56831:1"/>
+            <!-- PDF PAGE 16 -->
+            <head>A TRUE RELATION OF THE Late Kings Death.</head>
+            <p>ON Monday, <hi>being the 2d. of</hi> February, <hi>the King roſe early, ſaying, that he had not ſlept well the laſt Night: And about ſeven of the Clock, coming from his private Devotions, out of his Cloſet, fell down, (and ſcarce any ſign of of Life remaining in him for the ſpace of four Houres) of a Fit of an Apoplexy, but with the loſs of ſixteen Ounces of Blood, and other Aplications, came again to his Sences, and great Hopes were of his Recovery, till</hi> Thurſday <hi>one of the Clock; ſo that at five, the Doctors being come before the Council, declared that the</hi> K— was in great Danger; <hi>and on</hi> Friday, <hi>a quarter before twelve, he departed this Life.</hi> God have Mercy on his Soul.</p>
+            <p>P. M. A. C. F. <hi>came to the D. upon the Doctors telling him of the State of the K. and tould him</hi> that now was the time for him to take care of his Br. Soul, <hi>and that it was his Duty to tell him ſo: The D with this Admoniſhment went to the K. and after ſome private Diſcourſe, the K. uttered theſe Expreſſions,</hi> Oh B. how long have I wiſhed—but now help me; <hi>withal declaring that he would have Mr. H. who had preſerved him in the Tree, and now hoped would preſerve his Soul. Mr.</hi> Hud. <hi>was accordingly ſent for, and deſired to bring all Neſ<g ref="char:EOLhyphen"/>ſiſaries for a dying Man, but he not having the bleſſed Sacrament by him, went to one of the Q. P. and telling him the Occaſion, deſired his Aſſiſtance to procure it, and to bring it to the back Stairs. The K. having notice that Mr.</hi> H. <hi>waited at the Door, deſired to be in private, whereupon the Bps. and all the Nobles withdrew, the D. catching faſt the Door, the Lords</hi> P. B. <hi>and</hi> F. <hi>were going out alſo, but the D. told them that they might ſtay. The K. ſeeing Mr.</hi> H. <hi>cryed out,</hi> Almighty God, what good Planet governs me, that all my Life is Wonders and Miracles? When, O Lord, I conſider my Infancy, my Exile my Eſcape at <hi>Worceſter,</hi> my Preſer<g ref="char:EOLhyphen"/>vation in the Tree, with the Aſſiſtance of this good Father; and now to have him again to preſerve my Soul: O Lord, my wonderful Reſtoration, my great Danger in the late Conſpiracy; and laſt of all, to be raiſed from Death to Life, and to have my Soul preſerved by the Aſſiſtance of this Father, whom I ſee, O good Lord, that thou haſt created for my Good. <hi>The D. and Lords withdrew into the Cloſ<g ref="char:EOLhyphen"/>ſet for the ſpace of an houre and half, then entring again the Room, the F. asked the K. whether he would be pleaſed to receive; he anſwered,</hi> If I were worthy of it —Amen, Amen. <hi>The F. remaining comforting and praying with him, he ſaid, Father if I am worthy of it, I pray let me have it? The F. ſaid it would be brought to him imediately, and asked his Leave to proceed with extream Unction. the K. reply'd, with all my Heart, the D. and Lords aſſiſting at the time. Mr.</hi> H. <hi>was called to the Door, where he received the bleſſed Sacrament, and deſiring the K. to compoſe himſelf to receive, he would fain have aroſe (but was perſwaded to the contrary) ſaying,</hi> Let me meet my heavenly Father in a better man<g ref="char:EOLhyphen"/>ner than lying on my back. <hi>But being overruled, they continue in Prayer: Amongſt others, the Father repeats an Act of Contrition, deſiring the K. to repeat it word by word after him: Having made an end, the K. received with the greateſt Expreſſions of Devotion imaginable: This being ended, they go on with the Prayers</hi> de Anime; <hi>that being done, the K. deſired the Act of Contrition to be again repeated, ſaying,</hi> O Lord, good God, when my Lips fail, let my Heart ſpeak theſe Words Eternally, Amen. <hi>The Biſhops and Lords enter again the Room, and deſire the K. to remember his laſt End, and to endeavour to make a good End; he ſaid he had thought of it, and hoped he had made his Peace with God; they asked him whether he would receive, he ſaid he would not; ſo perſiſting in Extolling the Q. and D. ſaying he was not ſorry to leave the World, leaving ſo good a Brother to Rule behind him.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
